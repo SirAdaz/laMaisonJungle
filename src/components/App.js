@@ -4,7 +4,7 @@ import Cart from './Cart';
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <Banner />
       <Cart />
     </div>
